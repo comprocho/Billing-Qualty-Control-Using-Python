@@ -1,2 +1,2 @@
-# Quality Check on Billing 
+# Billing Quality Check
 #This program performs a quality control on the processed Excel documents containing worktag information and billing amounts from Shared Resource users. The purpose of this program is to automate the process of quality control so that it could save a lot of time while keeping the accuracy high. This QC is accomlished by loading Excel files and invoice summary Excel file generated from the billing web application and using Python pandas methods to check step-by-step for any erros.
